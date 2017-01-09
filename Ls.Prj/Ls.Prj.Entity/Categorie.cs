@@ -17,7 +17,7 @@ namespace Ls.Prj.Entity
         
         }
      
-        //public int IdCategoria { get; set; }
+ 
 
         public string Categoria { get; set; }
        
