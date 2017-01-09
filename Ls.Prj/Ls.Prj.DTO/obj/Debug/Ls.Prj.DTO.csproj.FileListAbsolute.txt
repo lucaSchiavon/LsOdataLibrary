@@ -1,0 +1,9 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.DTO\bin\Debug\Ls.Prj.DTO.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.DTO\bin\Debug\Ls.Prj.DTO.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.DTO\obj\Debug\Ls.Prj.DTO.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.DTO\obj\Debug\Ls.Prj.DTO.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.DTO\bin\Debug\Ls.Prj.DTO.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.DTO\bin\Debug\Ls.Prj.DTO.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.DTO\obj\Debug\Ls.Prj.DTO.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.DTO\obj\Debug\Ls.Prj.DTO.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.DTO\obj\Debug\Ls.Prj.DTO.pdb

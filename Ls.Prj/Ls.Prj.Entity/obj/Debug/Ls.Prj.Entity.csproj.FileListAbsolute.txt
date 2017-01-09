@@ -1,0 +1,13 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Prj.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Prj.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Base.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Prj.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Prj.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\bin\Debug\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.Entity\obj\Debug\Ls.Prj.Entity.pdb

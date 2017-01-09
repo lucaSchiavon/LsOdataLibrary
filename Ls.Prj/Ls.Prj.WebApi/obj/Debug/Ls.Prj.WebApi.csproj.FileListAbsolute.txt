@@ -1,0 +1,229 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\csc.exe
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\vbc.exe
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.dll.config
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Newtonsoft.Json.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Net.Http.Formatting.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.WebHost.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Newtonsoft.Json.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Net.Http.Formatting.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.WebHost.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.csprojResolveAssemblyReference.cache
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.SqlServer.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.WebApi.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.EF.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.Edm.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Core.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Edm.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Spatial.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Spatial.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.EF.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.SqlServer.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.WebApi.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.EF.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.Edm.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Core.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Edm.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Spatial.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Spatial.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.EF.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\de\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\es\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\fr\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\it\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ja\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ko\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\ru\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\csc.exe
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\vbc.exe
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.dll.config
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.WebApi.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.SqlServer.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.EF.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.Edm.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Core.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Edm.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Spatial.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Newtonsoft.Json.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Net.Http.Formatting.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Spatial.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.WebHost.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\EntityFramework.SqlServer.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.EF.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Base.WebApi.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.EF.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Ls.Prj.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.Edm.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Data.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Core.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.OData.Edm.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Microsoft.Spatial.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Spatial.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\Newtonsoft.Json.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Net.Http.Formatting.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\System.Web.Http.WebHost.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\de\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\es\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\fr\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\it\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ja\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ko\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\ru\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hans\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\bin\zh-Hant\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Prj\Ls.Prj.WebApi\obj\Debug\Ls.Prj.WebApi.pdb

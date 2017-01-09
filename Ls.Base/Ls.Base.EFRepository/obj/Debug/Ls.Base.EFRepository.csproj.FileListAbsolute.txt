@@ -1,0 +1,32 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.dll.config
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.csprojResolveAssemblyReference.cache
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EF.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EF.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\AutoMapper.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.EFRepository\bin\Debug\AutoMapper.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.dll.config
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EFRepository.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\AutoMapper.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EF.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\AutoMapper.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.EF.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\bin\Debug\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.EFRepository\obj\Debug\Ls.Base.EFRepository.pdb

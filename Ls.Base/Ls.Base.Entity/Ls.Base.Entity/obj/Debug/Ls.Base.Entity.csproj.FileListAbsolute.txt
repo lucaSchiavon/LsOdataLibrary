@@ -1,0 +1,8 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\bin\Debug\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\bin\Debug\Ls.Base.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\obj\Debug\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\obj\Debug\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\bin\Debug\Ls.Base.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\bin\Debug\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\obj\Debug\Ls.Base.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.Entity\Ls.Base.Entity\obj\Debug\Ls.Base.Entity.pdb

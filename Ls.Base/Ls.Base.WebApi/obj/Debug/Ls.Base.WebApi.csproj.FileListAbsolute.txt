@@ -1,0 +1,188 @@
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.dll.config
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.EF.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.Entity.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.Edm.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Core.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Edm.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Spatial.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Spatial.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.OData.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.EF.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.Entity.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.Edm.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Core.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Edm.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Spatial.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Spatial.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.OData.xml
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\de\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\es\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\it\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.dll
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.pdb
+C:\PERSONALE\EntityFramework\Librerie LS\Ls\Ls.Base\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.dll.config
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.WebApi.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.EF.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.Entity.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.Edm.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Core.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Edm.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Spatial.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Spatial.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.OData.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.EF.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Ls.Base.Entity.pdb
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.Edm.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Data.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Core.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.OData.Edm.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Microsoft.Spatial.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Spatial.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.Http.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\System.Web.OData.xml
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\de\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\es\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\fr\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\it\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ja\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ko\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\ru\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.csprojResolveAssemblyReference.cache
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.dll
+C:\GIT_LUCA\LsOdataLibrary\Ls.Base\Ls.Base.WebApi\obj\Debug\Ls.Base.WebApi.pdb
