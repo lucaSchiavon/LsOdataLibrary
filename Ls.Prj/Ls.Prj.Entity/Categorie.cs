@@ -10,14 +10,13 @@ namespace Ls.Prj.Entity
 {
     public partial class Categorie : LsEntity
     {
-
+        //
         public Categorie()
         {
             Prodottis = new HashSet<Prodotti>();
         
         }
      
- 
 
         public string Categoria { get; set; }
        

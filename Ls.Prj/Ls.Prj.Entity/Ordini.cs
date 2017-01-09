@@ -9,12 +9,11 @@ namespace Ls.Prj.Entity
 {
     public partial class Ordini : LsEntity
     {
+        //
         public Ordini()
         {
             OrdiniSuProdottis = new HashSet<OrdiniSuProdotti>();
         }
-
-        //public int IdOrdine { get; set; }
 
         public DateTimeOffset? DataOrdine { get; set; }
 
